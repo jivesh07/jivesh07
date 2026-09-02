@@ -2,99 +2,164 @@
 
 ### 🚀 Aspiring Full Stack Developer | BCA Student
 
-I'm a BCA student at IGNOU, currently in my 5th semester, passionate about building web applications and learning modern web development technologies.
+I'm a passionate BCA student at **IGNOU** with a strong interest in **Web Development and Software Development**.
 
-I enjoy turning ideas into functional and responsive web applications and continuously improving my development skills.
+I enjoy building web applications, learning modern technologies, and improving my development skills by working on real-world projects.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BCA Student at Indira Gandhi National Open University (IGNOU)
-- 📚 Currently in 5th Semester
-- 💻 Aspiring Full Stack Developer
-- 🌱 Currently learning React.js, Node.js, Express.js & MongoDB
-- 🔨 Building real-world web applications
-- 🤝 Open to internships and entry-level opportunities
-- 📍 India
+- 🎓 Currently pursuing **BCA at IGNOU**
+- 💻 Aspiring **Full Stack Developer**
+- 🌱 Currently learning **React.js, Node.js, Express.js & MongoDB**
+- 🚀 Building projects to improve my development skills
+- 🔧 Interested in **Frontend & Backend Development**
+- 📚 Continuously learning new technologies
+- 💼 Open to **Internships & Entry-Level Opportunities**
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React.js
+### 💻 Frontend
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Database
-- MongoDB
+### ⚙️ Backend
 
-### Tools
-- Git
-- GitHub
-- VS Code
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+### 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🚀 My Projects
 
 ### 🌦️ Weather App
-A responsive weather application that fetches real-time weather information using the Open-Meteo API.
 
-**Tech:** HTML, CSS, JavaScript
+A responsive weather application that fetches real-time weather information using the **Open-Meteo API**.
+
+**Features:**
+- 🌡️ Current temperature
+- 💧 Humidity
+- 💨 Wind speed
+- 🌤️ Weather condition
+- 📍 City search
+- 📱 Responsive design
+- ⚡ No API key required
+
+**Tech:** HTML, CSS, JavaScript, Open-Meteo API
+
+🔗 [Live Demo](https://jivesh07.github.io/weather-app/)  
+🔗 [Source Code](https://github.com/jivesh07/weather-app)
+
+---
 
 ### ✅ Todo App
-A simple task management application for adding and managing daily tasks.
+
+A simple and responsive task management application for creating and managing daily tasks.
+
+**Features:**
+- ➕ Add tasks
+- 🗑️ Delete tasks
+- ✅ Manage completed tasks
+- 📱 Responsive interface
 
 **Tech:** HTML, CSS, JavaScript
+
+🔗 [Source Code](https://github.com/jivesh07/Todo-app)
+
+---
 
 ### 🧠 Quiz App
-An interactive quiz application with questions, options and score tracking.
+
+An interactive quiz application where users can answer questions and track their scores.
+
+**Features:**
+- ❓ Multiple-choice questions
+- 🎯 Score tracking
+- 🔄 Quiz interaction
+- 📱 Responsive design
 
 **Tech:** HTML, CSS, JavaScript
+
+🔗 [Source Code](https://github.com/jivesh07/quiz-app)
+
+---
 
 ### 💰 Expense Tracker
-A web application for tracking income and expenses.
+
+A simple expense tracking application for managing income and expenses.
+
+**Features:**
+- 💵 Add income
+- 💸 Add expenses
+- 📊 Track balance
+- 📱 Responsive interface
 
 **Tech:** HTML, CSS, JavaScript
+
+🔗 [Source Code](https://github.com/jivesh07/expense-tracker-app)
+
+---
 
 ### 🧮 Calculator App
-A responsive calculator for performing basic mathematical operations.
+
+A simple calculator application for performing basic mathematical operations.
+
+**Features:**
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 📱 Responsive design
 
 **Tech:** HTML, CSS, JavaScript
 
-### 💼 Personal Portfolio
-My personal developer portfolio showcasing my skills, projects and contact information.
+🔗 [Source Code](https://github.com/jivesh07/calculator-app)
+
+---
+
+### 🌐 Personal Portfolio
+
+My personal portfolio website showcasing my skills, projects, and contact information.
 
 **Tech:** HTML, CSS, JavaScript
 
----
-
-## 📊 GitHub Stats
-
-![Jivesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jivesh07&show_icons=true&theme=tokyonight)
+🔗 [Live Portfolio](https://jivesh07.github.io/portfolio/)  
+🔗 [Source Code](https://github.com/jivesh07/portfolio)
 
 ---
 
-## 🔗 Connect With Me
+## 🎯 Currently Learning
 
-- 💼 LinkedIn: https://www.linkedin.com/in/jiveshkumar07/
-- 🌐 Portfolio: https://jivesh07.github.io/portfolio/
-- 📧 Email: jiveshkumar0709@gmail.com
-
----
-
-## 🎯 Current Goal
-
-I'm currently focused on becoming a skilled Full Stack Developer by building real-world projects and strengthening my knowledge of frontend, backend and database technologies.
-
----
-
-⭐ Thanks for visiting my profile!
+```text
+HTML & CSS
+    ↓
+JavaScript
+    ↓
+React.js
+    ↓
+Node.js
+    ↓
+Express.js
+    ↓
+MongoDB
+    ↓
+REST APIs
+    ↓
+Full Stack Development
